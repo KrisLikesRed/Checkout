@@ -1,0 +1,2 @@
+# Checkout
+practice checkout page
